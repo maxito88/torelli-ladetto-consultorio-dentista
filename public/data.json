@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1466416800000,
+		"patientName": "Matias Scallino",
+		"patientAge": 32,
+		"gender": "Masculino",
+		"aptDate": "2022-11-19",
+		"aptTime": "15:30",
+		"aptNotes": "Tratamiento de conducto"
+	},
+	{
+		"id": 1466737200000,
+		"patientName": "Julieta Nivera",
+		"patientAge": 47,
+		"gender": "Femenino",
+		"aptDate": "2022-11-19",
+		"aptTime": "10:00",
+		"aptNotes": "Control brackets"
+	},
+	{
+		"id": 1466590800000,
+		"patientName": "Maria Paz",
+		"patientAge": 25,
+		"gender": "Femenino",
+		"aptDate": "2022-11-19",
+		"aptTime": "10:30",
+		"aptNotes": "Limpieza"
+	},
+	{
+		"id": 1466480700000,
+		"patientName": "Francisco Lopez",
+		"patientAge": 61,
+		"gender": "Masculino",
+		"aptDate": "2022-11-19",
+		"aptTime": "09:30",
+		"aptNotes": "Control"
+	}
+]
